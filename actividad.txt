@@ -44,3 +44,33 @@ Elabore un informe
 En grupo de 3
 Qe cumpla las normas APA
 Entrega 26-4-24 (Viernes)
+
+
+Metodologia: 
+-Metodo: Relgas, procedimientos, formas de hacer -> Basado en la experiencia tecnicas y heramientas
+-Logia: Ciencia, estudio
+
+Tradicional:
+-Orientada a Objectos
+-Estructurada: Kendall, Senn, Fabregas
+Sigue una secuencia de pasos o fases que no se pueden adelantar. Se puede agrupar. Requiere de un trabajo ordenado y bien documentado.
+
+Agil:
+-Rup(Rational Unified Process)
+-Scrum
+
+Fases:
+-Levantamiento de informaciòn
+-Analisis
+-Diseño
+-Desarrollo
+-Prueba
+-Puesta en producciòn
+
+Ciclo de vida de los Sistemas de Informaciòn: 
+-Idea
+-Desarrollo
+-Prueba
+-Producciòn
+-Revisiòn
+
