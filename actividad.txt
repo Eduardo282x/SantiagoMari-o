@@ -60,7 +60,7 @@ Agil:
 -Scrum
 
 Fases:
--Levantamiento de informaciòn
+-Levantamiento de informaciòn -> (Quien, cuando, como, donde, porque, para que)
 -Analisis
 -Diseño
 -Desarrollo
