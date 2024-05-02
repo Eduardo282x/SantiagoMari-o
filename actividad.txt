@@ -74,3 +74,16 @@ Ciclo de vida de los Sistemas de Informaciòn:
 -Producciòn
 -Revisiòn
 
+Examen 10/05 Viernes
+
+Sistema de informaciòn
+-Funciones
+-Componentes
+
+Ciclo de vida de los S.I
+
+Tipos de S.I
+-Transaccional
+-Gerenciales
+
+
