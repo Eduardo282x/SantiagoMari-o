@@ -1,0 +1,35 @@
+Proyecto de sistemas
+Se propine desarrollar un prototipo de un sistema de información. Se cumpliran las fases del proyecto durante el desarrollo de la materia se haran 2 entregas.
+
+Fase 1: 
+-Levantamiento de información
+-Instrumentos
+-Diagramas de procesos (actual)
+-Listado de requerimientos
+
+Fase 2: 
+-Diseño
+-Procesos mejorados
+-Diagramas UML
+-Base de datos
+-Prototipo-Programación
+-Pruebas
+
+Respuestas:
+En el contexto de las tecnologias 4.0 
+-Gobierno electronico
+-Control domotico
+-Simulador de proceso (Toma de decisión)
+
+Sistema de inventario
+-Control de almacen
+
+Historias medicas por especialidades
+
+Gestión de documentos
+-Bibliotecas
+-Tesis
+
+Modelado para el analisis de mercado
+
+Sistema de gestión administrativa
