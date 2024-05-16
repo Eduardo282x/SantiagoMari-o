@@ -87,3 +87,17 @@ Tipos de S.I
 -Gerenciales
 
 
+Investigar acerca de proyectos de tecnologia 4.0
+
+Temas
+-Ciudades Inteligentes
+-Industria (Machine Learning)
+-Gobierno Electronico
+-Educaciòn
+Que es? Como se hace ? Donde se aplica?
+
+https://dfsud.com/america/santiago-supera-a-medellin-como-la-ciudad-mas-inteligente-de
+https://acimedellin.org/wp-content/uploads/2021/11/ciudad-inteligente.pdf
+
+Prompt: Hola, podrias hablarme acerca de las tecnologias 4.0 acerca de la inteligencia artificial para la realizaciòn  de proyectos acerca de las ciudades inteligentes, que son y que las componen.
+
