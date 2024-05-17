@@ -86,6 +86,8 @@ Tipos de S.I
 -Transaccional
 -Gerenciales
 
+Diagramas UML
+https://www.edrawsoft.com/es/uml-diagrama-examples.html
 
 Investigar acerca de proyectos de tecnologia 4.0
 
