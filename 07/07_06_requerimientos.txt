@@ -1,0 +1,20 @@
+Requerimientos:
+
+-No se debe registrar un producto sin costo
+-No se debe ingresar al sistema sin una clave
+-Las ordenes de compra deben tener un codigo unico
+-Los campos de selección deben  presentar una lista desplegable
+-Se deben emitir mensajes de alerta para:
+  *Ingreso no autorizado
+  *Ingreso a una opción no autorizada
+  *Cuando el archivo del sistema no este disponible
+
+-El sistema debe estar instalado en todas las sucursales de Maracaibo, Cabimas y Caracas
+
+/-------------------------------/-------------------------------/-------------------------------/
+
+*Que tipo de requerimientos son los ejemplos
+
+*Se pueden redactar en terminos de programación (Tipo pseudo-codigo)
+
+*Enunciar cuales aspectos faltan por conocer del sistemas que/como se puede preguntar
