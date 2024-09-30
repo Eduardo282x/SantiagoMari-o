@@ -1,0 +1,4 @@
+Realizar un informa sobre:
+
+-Los estándares Itil y PMJ-PMBOOK
+-Comparación entre los estándares y las métricas de análisis y diseño de sistemas tradicionales.
