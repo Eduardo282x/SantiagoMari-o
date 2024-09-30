@@ -1,0 +1,17 @@
+Etapas - Fases
+
+Propuesta: 
+-Análisis de Requerimientos (Diagnostico)
+
+Planificación: 
+-Plan de trabajo
+-Presupuesto de gasto
+
+Ejecución seguimiento:
+-Control de Avance
+-Gestión de riesgo
+
+Cierre:
+-Aprobación 
+-Entrega
+-Implementación

@@ -1,4 +1,18 @@
 Realizar un informa sobre:
 
--Los estándares Itil y PMJ-PMBOOK
+-Los estándares Itil y PMJ-PMBOCK
 -Comparación entre los estándares y las métricas de análisis y diseño de sistemas tradicionales.
+
+(Anotacion)
+El estandar de la PMI, procesos principales de control de seguimiento, estructura de la oficina de proyectos
+El estandar Itil:
+Descripción de las principales funciones de comprar el estándar con las metodologías de análisis y diseño de sistemas tradicionales
+
+Fecha de entrega 14-10-24
+Equipo de 3
+
+Esquema:
+Introducción
+Desarrollo
+Conclusion
+Bibliografía
