@@ -1,0 +1,40 @@
+El software es aquella parte intangible del computador la cual nos proporciona los programas y las herramientas a utilizar.
+
+Como se clasifica el software:
+-De aplicación: Herramientas de Office
+-De programación: Herramientas de programación
+-De sistemas: Sistema Operativo
+
+Un sistema de información es un conjunto ordenado de personas, procesos y herramientas cuyo fin es administrar datos e información, de manera que puedan ser recuperados y procesados fácil y rápidamente.
+
+Todo sistema de información se compone de una serie de recursos interconectados y en interacción, bien organizados y dispuestos del modo más conveniente en relación con un propósito informativo determinado, que puede ser recabar información personal, procesar estadísticas, organizar archivos, entre otros.
+
+
+Esta integrado de una variedad de elementos, que se interrelación entre si con el fin para ayudar a la toma de decisiones.
+
+Clasificación de los sistemas de información
+Transaccionales 
+Operación
+Gestión y gerencia
+
+https://www.clasificacionde.org/clasificacion-de-sistemas-de-informacion/
+
+
+Caracteristicas de los sistemas Transaccionales
+
+Sistema de información Gerencia
+Es un conjunto de sistemas de información que interactúan entre si y a su vez proporcionad información acerca de las necesidades de las operaciones, los sistemas de información administrativo ayudan a tomar decisiones.
+
+Componentes que debe tener un sistema de información
+Sea automatizado o no, los componente de un SI son un medio de ingreso de información, medio de entrada, capacidad de procesamiento, base de datos.
+
+
+
+Que es la ingeniería del software
+Define la ingeniería como la aplicación de un enfoque sistémico disciplinado y cuantificables en el desarrollo, la operación y el mantenimiento del software
+
+Investigar para la proxima clase
+las principales 
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
