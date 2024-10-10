@@ -1,0 +1,6 @@
+Modelo clásico de calidad del software
+
+-McCall
+-Métricas
+-Operación de producto
+-Revision del producto
