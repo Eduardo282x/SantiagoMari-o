@@ -1,0 +1,19 @@
+-Investigar estandares para la contruccion de un data center (centro de procesamiento de datos) (TIA 942/3) iso
+-Que es una redes de datos industriales
+-El internet industrial de las cosas
+*Requerimientos de diseño
+*Requerimientos tecnologicos
+
+Fecha de entrega 21-11-24
+
+
+
+-----------------------------------------------------------
+Recordatorio 
+
+Investigacion
+
+-Construccion de un Data centerEstandares a utilizar
+Consideraciones de diseno
+
+-Redes industriales de datos

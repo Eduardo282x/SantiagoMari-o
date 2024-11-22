@@ -1,7 +1,7 @@
 Fechas de entrega
 1er Corte:
 10%: 14-10-24
-20%: 23-10-24
+20%: 21-10-24
 
 2do Corte:
 10%: 21-11-24
@@ -10,3 +10,4 @@ Fechas de entrega
 3er Corte:
 20%: 20-01-25
 20%: 03-02-25
+

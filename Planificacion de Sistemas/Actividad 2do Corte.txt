@@ -1,0 +1,23 @@
+Actividad taller
+
+En la empresa se tomo la decision de cambiar el sistema de nomina por uno adquirido a terceros
+
+Se pide que el equipo:
+
+-Establezca el plan general por el cambio
+-Describir los tipos de prueba a realizar, ejemplos
+-Describir los posibles riesgos
+
+Plan de cambio
+Implementar el nuevo sistema en un servidor de prueba para posteriormente sustituir el sistema viejo por el nuevo
+
+Pruebas de seguridad de los datos
+Prueba de rendimiento del sistema el cual sea mas rapido
+Prueba de fiabilidad de los datos y operaciones realizadas
+
+
+Riesgo de que no sea compatible con la configuracion del sistema anterior
+Riesgo de seguridad en los datos
+Riesgo de mantenimiento y/o documentacion del sistema
+
+

@@ -1,0 +1,28 @@
+Planificacion de estrategias de TI
+
+Estandares para la gestion
+insert_linkISO 9000
+Cobit
+
+Seguridad
+ISO 27000
+NIST
+
+Arquitectura de servicio
+
+Cliente         Usuarios
+   ↓↑              ↑↓
+Servicios/Aplicacion        ←→   R
+    ↑↓
+Aplicacion    ←→    Datos   ←→   E
+
+Software / SO               ←→   D
+  ↓ ↓ ↓
+Infraestructura fisica
+
+
+
+Entrega del servicio
+Soporte al usuario -- Mesa de ayuda / Manejo de incidentes
+Organizacion del software / Analisis de capacidades
+Administracion de infraestructura →  Configuracion actualizacion
